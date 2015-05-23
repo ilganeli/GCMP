@@ -1,0 +1,174 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color:#FFF;
+	border:#FFF;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	border-bottom-width:medium;
+	background-image:url(background3.png);
+	font-size: 12px;
+	color:#000;
+	padding:10px;
+	text-decoration:none;
+  }
+
+::selection {
+	background: #e4af7a; 
+	}
+::-moz-selection {
+	background: #e4af7a; /* Firefox */
+}  
+
+#nav {
+	text-align:center;
+	font:Tahoma, Geneva, sans-serif;
+	font-size: 20px;
+	color:#09F;
+}
+
+#pagetitle {
+	font: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:42px;
+	font-weight:500;
+	color:#9dcff6;
+		
+}
+
+#navposition {
+	width:960px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#contentbackground {
+	background-color:#FFF;
+	width:100%;
+	height: 100%
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+/*	padding:20px;*/
+	border:3px #CCC ridge;
+	    }
+	
+	#maincontent_left {
+	color:#000;
+	padding-right:10px;
+	padding-bottom:10px;
+	padding-top:10px;
+	padding-left:10px;
+	text-decoration:none;
+	}
+	
+	#caption {
+	font-size: 10px;
+	color:#666
+	padding:10px;
+	text-decoration:none;
+	text-align:right;
+	}
+
+#openingtext {
+	font-family:Century Gothic, sans-serif;
+	font-size: 15px;
+	color:#666;
+	text-decoration:none;
+}
+
+#image {
+	float:right;
+}
+
+#flash {
+	float:right;
+}
+
+.fadein { position:relative; width:360px; height:239px; }
+.fadein img { position:absolute; left:0; top:0; }
+
+.mc_embed_signup{
+	/*background-image:url(email_signup.png);*/
+	background-color:#9dcff6;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	margin-left:auto;
+	margin-right:auto;
+	clear:left; 
+	font-size:12px; 
+	font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+	width:180px;
+	height:100px;
+	padding:10px;
+	
+	}
+
+.popupbackground {
+	background-color:#fff8f8;
+	color:#000;
+	padding:25px;
+}
+
+.left_column {
+	width:350px;
+	float:left;
+}
+
+.right_column {
+	width:350px;
+	height:auto;
+	float:right;
+}
+	
+
+.media {
+	padding-left:10px;
+	float:right;
+}
+
+.medialeft {
+	float:left;
+	padding-right:10px;
+}
+
+.mediacenter {
+	text-align:center;
+	padding-right:10px;
+}
+/*List attribute source: http://css.maxdesign.com.au/listutorial/index.htm */
+ul {
+	list-style-type:none;
+	padding: 0;
+	margin-left: 1em;
+}
+
+li {
+	margin: 0; 
+	padding: 0;
+}
+	
+
+ul.navigation,
+ul.navigation ul {
+	margin: 0;
+}
+ul.navigation li {
+	list-style-type: none;
+	float:left;
+	padding:0px;
+		
+}
+.navigation { list-style-type:none; margin: 10; padding: 5px; font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif; font-size:14px; }
+.navigation li { font-weight:100; display: inline; margin: 0 15px 0 0; }
+.navigation li a { display: inline-block; padding: 5px; color:#C96; text-decoration: none; }
+.navigation li a:hover { background:#9dcff6; color:#FFF;}
+
+a.link:link {color:#CC9966; text-decoration: none;}
+a.link:visited {color:#CC9966; text-decoration:none;}
+a.link:active {color: none; text-decoration:none;} 
+a.link:hover {text-decoration: none; color:#9dcff6;}
+
+a.link2:link {color:#09F; text-decoration: none;}
+a.link2:visited {color:#09F; text-decoration:none;}
+a.link2:active {color: none; text-decoration:none;} 
+a.link2:hover {text-decoration: none; color:#CC9966;}

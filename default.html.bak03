@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Greek Chamber Music Project</title>
+<style type="text/css">
+<!--
+@import url("style.css");
+body {
+	background-image: url(background3.png);
+}
+-->
+</style>
+</head>
+
+<body>
+<div id="navposition">
+<span id="pagetitle"><a href="default.html"><img src="gcmp_logo_web.png" border="0"/></a></span>
+<ul class="navigation">
+  <li><a href="default.html">HOME</a></li>
+  <li><a href="upcomingevents.html">UPCOMING EVENTS</a></li> 
+  <li><a href="pastevents.html">PAST EVENTS</a></li>
+  <li><a href="artists.html">ARTISTS</a></li>
+  <li><a href="community.html">COMMUNITY CALENDAR</a></li>
+  <li><a href="contact.html">CONTACT</a></li>
+</ul>
+</div>
+<div id="contentbackground">
+	<div id="openingtext">
+  	<p>For many, Greek music might conjure up scenes from &quot;Never on Sunday&quot; or &quot;My Big Fat Greek Wedding&quot; &mdash; dancing, smashing plates, flowing ouzo &mdash; opa! But a collective of young, talented musicians take on a different image of music from the Greek world. </p>
+    </div>
+    <table width="370" border="0" cellspacing="0" cellpadding="0" class="media">
+  	<tr>
+
+<td>
+      
+    
+    <!--<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="360" height="239" id="dewplayer" align="right" hspace="0" ><param name="allowScriptAccess" value="sameDomain" /><param name="movie" value="dewslider.swf?img=slideshow/ellie_ganelin.jpg, slideshow/michael_alekos.jpg, slideshow/mariangela_pantelis.jpg, slideshow/maria_bessmeltseva.jpg, slideshow/pantelis_polychronidis.jpg, slideshow/alekos_syropoulos.jpg, slideshow/gcmp.jpg&amp;transition=fade&amp;speed=20&amp;timer=3&amp;alignbuttons="top"" /><param name="quality" value="high" /><embed src="dewslider.swf?img=slideshow/ellie_ganelin.jpg, slideshow/michael_alekos.jpg, slideshow/mariangela_pantelis.jpg, slideshow/maria_bessmeltseva.jpg, slideshow/pantelis_polychronidis.jpg, slideshow/alekos_syropoulos.jpg, slideshow/gcmp.jpg&amp;transition=fade&amp;speed=20&amp;timer=3&amp;alignbuttons="top"" quality="high" width="360" height="239" name="dewplayer" align="right" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></object>-->
+  </td>
+  </tr>
+  <tr>
+    <td><div id="caption">Photos by M. Chatzistamatiou</div></td>
+  </tr>
+</table>
+   
+    <div id="maincontent">
+  	<p>The<strong> Greek Chamber Music Project</strong> performs classical and jazz music  by Greek composers, shedding light on little-known works, as well as visiting familiar songs in a new way. GCMP's combination of all-Greek works are so unique, that they are rarely performed even within Greece.</p>
+  	<p> Featured composers have included Manos Hadjidakis, Mikis Theodorakis, Manolis Kalormiris, Philippos Tsalahouris, Christos Hatzis, Andreas Makris,  Dinos Constantinides, Dimitris Dragatakis, 
+  	  Michael Malis and others.</p>
+    
+  	<p>&nbsp;</p>
+    <p>&nbsp;</p>
+   	</div>
+  </div>
+    
+</div>
+</div>
+
+
+</body>
+</html>
