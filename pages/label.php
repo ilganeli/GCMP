@@ -16,7 +16,9 @@
 	<hr width="75%" align="left" />
 
 	<p><strong>Preview and Order the Digital CD:</strong></p>	
-<iframe style="border: 0; width: 350px; height: 786px;" alighn="right" src="https://bandcamp.com/EmbeddedPlayer/album=2956291680/size=large/bgcol=ffffff/linkcol=63b2cc/transparent=true/" seamless><a href="http://greekchambermusic.bandcamp.com/album/hellenic-song-a-musical-migration">Hellenic Song: A Musical Migration by Greek Chamber Music Project</a></iframe>
+	<iframe name="full" style="width:100%;height:520px;border:0px;" src="http://widget.cdbaby.com/fde60f2f-35ca-4eb8-8e35-c6ee90acfa22/full/light/opaque"></iframe>
+<!--	
+<iframe style="border: 0; width: 350px; height: 786px;" alighn="right" src="https://bandcamp.com/EmbeddedPlayer/album=2956291680/size=large/bgcol=ffffff/linkcol=63b2cc/transparent=true/" seamless><a href="http://greekchambermusic.bandcamp.com/album/hellenic-song-a-musical-migration">Hellenic Song: A Musical Migration by Greek Chamber Music Project</a></iframe> -->
 	
 
 	<p><strong>Order physical CD:</strong></p>	
