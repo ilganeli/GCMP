@@ -1,7 +1,7 @@
 <div class="grid_10 prefix_1">
   	<p id="openingtext">HELLENIC SONG: A MUSICAL MIGRATION</p>
 </div>
-<div class="grid_7 prefix_1">
+<div class="grid_10 prefix_1">
     <div id="openingtext">
 	<img src="hellenic-song-cover.jpg" align="right" class="media">
   	<p><em>We are pleased to announce the launch of the Greek Chamber Music Project record label, which is devoted releasing the music of contemporary Greek composers. The goal is to share this rich, musical repertoire around the world, and to support the young musicians who make this wonderful music.</em></p>
