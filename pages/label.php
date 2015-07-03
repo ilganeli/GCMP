@@ -10,9 +10,9 @@
     
 	<p>GCMP's debut release is titled <strong>Hellenic Song: A Musical Migration</strong>, collection of suites, sonatas, and popular songs by Greek composers. Many of the classical selections have a flair for Greek folk music, while the popular songs are arranged with a twist. <a href="liner-notes.pdf" target="_blank" class="link">Download the liner notes (PDF)</a>.</p>
 	<p><strong>Artists:</strong><br />
-	<a href="http://greekchambermusic.com/index.php?page=artists#mary-voutsas">Mary-Victoria Voutsas (piano)</a><br />
-	<a href="http://greekchambermusic.com/index.php?page=artists#ellieganelin" >Ellie Falaris Ganelin (flute)</a><br />
-	<a href="http://greekchambermusic.com/index.php?page=artists#anna-hennessy">Anna Matijasic Hennessy (violin)</a></p>
+	<a href="http://greekchambermusic.com/index.php?page=artists#mary-voutsas" class="link">Mary-Victoria Voutsas (piano)</a><br />
+	<a href="http://greekchambermusic.com/index.php?page=artists#ellieganelin" class="link">Ellie Falaris Ganelin (flute)</a><br />
+	<a href="http://greekchambermusic.com/index.php?page=artists#anna-hennessy" class="link">Anna Matijasic Hennessy (violin)</a></p>
 	<hr width="75%" align="left" />
 
 	<p><strong>Preview and Order the Digital CD:</strong></p>	
