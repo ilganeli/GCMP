@@ -5,7 +5,7 @@
 	</div>
 <div class="grid_10 prefix_1" >
 
-	<p><a href="http://kennedy-center.org/explorer/videos/?id=M6323" class="link" target="_blank" >Watch the video of GCMP's CD release concert at the Kennedy Center.</a>
+	<span style="color:#3abdfe; font-size:16px;">Live Concert Footage</span><br /><p><a href="http://kennedy-center.org/explorer/videos/?id=M6323" class="link" target="_blank" >Watch the video of GCMP's CD release concert at the Kennedy Center on May 25, 2015.</a>
 	<p><a href="http://kennedy-center.org/explorer/videos/?id=M6323" target="_blank" ><img src="kc-screenshot.jpg" /></a></p>
 	
 	<hr width="100%" align="left" />
@@ -24,7 +24,11 @@
   Compositions by Hadjidakis, Dragatakis, Benakis, Makris, and more.</p>
 		
   <p><em>Presented in cooperation with the Embassy of Greece as part of the European Month of Culture.</em></p>
-  <p><strong>Press coverage:</strong><a href="http://www.greeknewsonline.com/greek-chamber-music-project-launches-record-label-celebrating-chamber-music-from-greece/" class="link" >GreekNews, May 17, 2015</a> | <a href="https://hellenicnews.com/join-us-as-we-celebrate-european-month-of-culture-with-greek-chamber-music-project-at-the-john-f-kennedy/" class="link" >Hellenic News of America, May 19, 2015</a> | <a href="http://hellenicjournal.org/hj/publications/0515/index.html#17" class="link" >Hellenic Journal, May 2015</a>
+  <p><strong>Press coverage:</strong>
+	  <li><a href="http://www.greeknewsonline.com/greek-chamber-music-project-launches-record-label-celebrating-chamber-music-from-greece/" class="link" target="_blank">GreekNews ● May 17, 2015</a></li>
+	  <li><a href="https://hellenicnews.com/join-us-as-we-celebrate-european-month-of-culture-with-greek-chamber-music-project-at-the-john-f-kennedy/" class="link" target="_blank" >Hellenic News of America ● May 19, 2015</a></li>
+	  <li><a href="http://hellenicjournal.org/hj/publications/0515/index.html#17" class="link" target="_blank">Hellenic Journal ● May 2015</a></li>
+  </p>
   <p> &nbsp;</p> 
 	<hr width="100%" align="left" />
 	
