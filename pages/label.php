@@ -15,7 +15,8 @@
 	<a href="http://greekchambermusic.com/index.php?page=artists#anna-hennessy" class="link">Anna Matijasic Hennessy (violin)</a></p>
 	<hr width="100%" align="left" />
 
-	<p><strong>Preview and Order the Digital CD:</strong>
+	<p><strong>Preview and Order the Digital CD:</strong></p>
+	<p>
 	<a href="https://greekchambermusic.bandcamp.com/releases" target="_blank"><img src="bandcamp.png" /></a> 
 	&nbsp;
 	<a href="https://itunes.apple.com/us/album/hellenic-song-musical-migration/id1011075679" target="_blank"><img src="itunes.jpg" /></a>
