@@ -1,7 +1,7 @@
 <div class="grid_10 prefix_1">
   	<p id="openingtext">HELLENIC SONG: A MUSICAL MIGRATION</p>
 </div>
-<div class="grid_10 prefix_1">
+<div class="grid_9 prefix_1">
     <div id="openingtext">
 	<img src="hellenic-song-cover.jpg" align="right" class="media">
   	<p><em>We are pleased to announce the launch of the Greek Chamber Music Project record label, which is devoted releasing the music of contemporary Greek composers. The goal is to share this rich, musical repertoire around the world, and to support the young musicians who make this wonderful music.</em></p>
@@ -13,22 +13,20 @@
 	<a href="http://greekchambermusic.com/index.php?page=artists#mary-voutsas" class="link">Mary-Victoria Voutsas (piano)</a><br />
 	<a href="http://greekchambermusic.com/index.php?page=artists#ellieganelin" class="link">Ellie Falaris Ganelin (flute)</a><br />
 	<a href="http://greekchambermusic.com/index.php?page=artists#anna-hennessy" class="link">Anna Matijasic Hennessy (violin)</a></p>
-	<hr width="75%" align="left" />
+	<hr width="100%" align="left" />
 
-	<p><strong>Preview and Order the Digital CD:</strong></p>	
-	<iframe name="full" style="width:100%;height:520px;border:0px;" src="http://widget.cdbaby.com/fde60f2f-35ca-4eb8-8e35-c6ee90acfa22/full/light/opaque"></iframe>
-
-	<p><a href="https://greekchambermusic.bandcamp.com/releases" target="_blank"><img src="bandcamp.png" /></a> 
+	<p><strong>Preview and Order the Digital CD:</strong>
+	<a href="https://greekchambermusic.bandcamp.com/releases" target="_blank"><img src="bandcamp.png" /></a> 
 	&nbsp;
 	<a href="https://itunes.apple.com/us/album/hellenic-song-musical-migration/id1011075679" target="_blank"><img src="itunes.jpg" /></a>
 	&nbsp;
 	<a href="https://play.google.com/store/music/album/Various_Artists_Hellenic_Song_A_Musical_Migration?id=Bhnvmikcjoxyt7nst6pbm64y57q" target="_blank"><img src="google-play.png" /></a>
+	</p>	
 	
-	</p>
-
+	<iframe name="full" style="width:100%;height:520px;border:0px;" src="http://widget.cdbaby.com/fde60f2f-35ca-4eb8-8e35-c6ee90acfa22/full/light/opaque"></iframe>
 
 	
-	<hr width="75%" align="left" />
+	<hr width="100%" align="left" />
 	<p><strong>Order physical CD:</strong></p>	
 	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
