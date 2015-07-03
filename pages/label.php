@@ -18,13 +18,13 @@
 	<p><strong>Preview and Order the Digital CD:</strong></p>	
 	<iframe name="full" style="width:100%;height:520px;border:0px;" src="http://widget.cdbaby.com/fde60f2f-35ca-4eb8-8e35-c6ee90acfa22/full/light/opaque"></iframe>
 
-	<p><a href="http://greekchambermusic.bandcamp.com"><img src="https://s1.bcbits.com/img/buttons/bandcamp_130x27_white.png"></a> 
+	<p><a href="https://greekchambermusic.bandcamp.com/releases" target="_blank><img src="social icons/bandcamp.png" /></a> 
 	&nbsp;
-	<a href="https://itunes.apple.com/us/album/hellenic-song-musical-migration/id1011075679"><img src="social icons/itunes.jpg" /></a>
+	<a href="https://itunes.apple.com/us/album/hellenic-song-musical-migration/id1011075679" target="_blank><img src="social icons/itunes.jpg" /></a>
 	&nbsp;
 	<a href="https://play.google.com/store/music/album/Various_Artists_Hellenic_Song_A_Musical_Migration?
 
-id=Bhnvmikcjoxyt7nst6pbm64y57q"><img src="social icons/google-play.png" /></a>
+id=Bhnvmikcjoxyt7nst6pbm64y57q" target="_blank><img src="social icons/google-play.png" /></a>
 	
 	</p>
 
