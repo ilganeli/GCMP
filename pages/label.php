@@ -1,4 +1,4 @@
-<div class="grid_11 prefix_1">
+<div class="grid_10 prefix_1">
   	<p id="openingtext">HELLENIC SONG: A MUSICAL MIGRATION</p>
 </div>
 <div class="grid_7 prefix_1">
