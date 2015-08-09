@@ -8,7 +8,7 @@
     </div>
 
     
-	<p>GCMP's debut release is titled <strong>Hellenic Song: A Musical Migration</strong>, collection of suites, sonatas, and popular songs by Greek composers. Many of the classical selections have a flair for Greek folk music, while the popular songs are arranged with a twist. <a href="liner-notes.pdf" target="_blank" class="link">Download the liner notes (PDF)</a>.</p>
+	<p>GCMP's debut release is titled <strong>Hellenic Song: A Musical Migration</strong>, a collection of suites, sonatas, and popular songs by Greek composers. Many of the classical selections have a flair for Greek folk music, while the popular songs are arranged with a twist. <a href="liner-notes.pdf" target="_blank" class="link">Download the liner notes (PDF)</a>.</p>
 	<p><strong>Artists:</strong><br />
 	<a href="http://greekchambermusic.com/index.php?page=artists#mary-voutsas" class="link">Mary-Victoria Voutsas (piano)</a><br />
 	<a href="http://greekchambermusic.com/index.php?page=artists#ellieganelin" class="link">Ellie Falaris Ganelin (flute)</a><br />
@@ -24,7 +24,9 @@
 	<a href="https://play.google.com/store/music/album/Various_Artists_Hellenic_Song_A_Musical_Migration?id=Bhnvmikcjoxyt7nst6pbm64y57q" target="_blank"><img src="google-play.png" /></a>
 	</p>	
 	
-	<iframe name="full" style="width:100%;height:520px;border:0px;" src="http://widget.cdbaby.com/fde60f2f-35ca-4eb8-8e35-c6ee90acfa22/full/light/opaque"></iframe>
+	<iframe style="border: 0; width: 700px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=2956291680/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=small/transparent=true/" seamless><a href="http://greekchambermusic.bandcamp.com/album/hellenic-song-a-musical-migration">Hellenic Song: A Musical Migration by Greek Chamber Music Project</a></iframe>
+	
+	<!--<iframe name="full" style="width:100%;height:520px;border:0px;" src="http://widget.cdbaby.com/fde60f2f-35ca-4eb8-8e35-c6ee90acfa22/full/light/opaque"></iframe>-->
 
 	
 	<hr width="100%" align="left" />
