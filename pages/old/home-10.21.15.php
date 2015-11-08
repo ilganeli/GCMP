@@ -1,6 +1,6 @@
 <div class="grid_10 prefix_1">
 <div id="openingtext">
-<p><strong>NEWS: </strong>New CD <strong><a href="index.php?page=label" class="link">The Moon is Red: A Tribute to Manos Hadjidakis</a></strong> is now available. <a href="index.php?page=label" class="link">Listen now.</a></p>
+<p><strong>NEWS: </strong>Debut CD <strong><a href="index.php?page=label" class="link">Hellenic Song: A Musical Migration</a></strong> now available. <a href="index.php?page=label" class="link">Listen now.</a></p>
 
 
   	<p>For many, Greek music might conjure up scenes from &quot;Never on Sunday&quot; or &quot;My Big Fat Greek Wedding&quot; &mdash; dancing, smashing plates, flowing ouzo &mdash; opa! But a collective of young, talented musicians take on a different image of music from the Greek world. </p>

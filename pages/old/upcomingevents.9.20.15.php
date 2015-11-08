@@ -4,28 +4,7 @@
 		</div>
 	</div>
 <div class="grid_10 prefix_1" >
-	<span style="color:#3abdfe; font-size:16px;">The Moon is Red: A Tribute to Manos Hadjidakis</span><br />
-	<strong>The Kennedy Center's Millennium Stage</strong><br />
-	<span style="font-size:12px;"><strong>Wednesday, October 21 at 6 pm<br />
-    <em>Free Concert</em><br /> 
-			<img src="gcmp-kc.jpg" class="media" alaign="right" alt="Mary-Victoria Voutsas, piano | Ellie Falaris Ganelin, flute | Anna Matijasic Hennessy, violin" title="Mary-Victoria Voutsas, piano | Ellie Falaris Ganelin, flute | Anna Matijasic Hennessy, violin" />
-			
-  </p>
-  <p>In celebration of Academy Award-winning composer Manos Hadjidakis, Mary-Victoria Voutsas and the Greek Chamber Music Project return to the Kennedy Center to interpret some of his most influential works. This concert marks the release of their CD "The Moon is Red: A Tribute to Manos Hadjidakis" and will feature solo piano repertoire and collaborative popular songs from the CD. This performance is presented in collaboration with the Embassy of Greece. </p>
-  <p>Featured Artists:</br> 
-	Mary-Victoria Voutsas, piano and vocals<br/>
-	Ellie Falaris Ganelin, flute<br/>
-	Anna Matijasic Hennesy, violin</p>
-	
-	<p>Add to Google Calendar:</br>
-	<a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=NXBrcmFvYWg3azc1cDN0dThtMWlxMXFyMDQgZ3JlZWtjaGFtYmVybXVzaWNAbQ&tmsrc=greekchambermusic%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a></p>
-	
-	<p><a href="https://www.facebook.com/events/1714369882124635/" target="_blank" class="link" >RSVP on Facebook</a></p>
-	
-    <p>&nbsp;</p> 
-	
-	<hr width="100%" align="left" />
-	
+
 	<span style="color:#3abdfe; font-size:16px;">Live Concert Footage</span><br /><p><a href="http://kennedy-center.org/explorer/videos/?id=M6323" class="link" target="_blank" >Watch the video of GCMP's CD release concert at the Kennedy Center on May 25, 2015.</a>
 	<p><a href="http://kennedy-center.org/explorer/videos/?id=M6323" target="_blank" ><img src="kc-screenshot.jpg" /></a></p>
 	
